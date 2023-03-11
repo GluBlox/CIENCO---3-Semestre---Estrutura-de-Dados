@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678497100 source:g:\programas\codeblocks\algoritmos\estrutura de dados\material 2 - módulos\exemplo_modulo\my_math.cpp
+
+1678497514 source:g:\programas\codeblocks\algoritmos\estrutura de dados\material 2 - módulos\exemplo_modulo\main.cpp
+	<iostream>
+	"my_math.h"
+
+1678497506 g:\programas\codeblocks\algoritmos\estrutura de dados\material 2 - módulos\exemplo_modulo\my_math.h
+
