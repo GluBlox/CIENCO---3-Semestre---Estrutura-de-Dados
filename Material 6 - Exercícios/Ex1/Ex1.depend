@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685142482 source:g:\programas\codeblocks\algoritmos\estrutura de dados\material 6 - exercícios\ex1\main.cpp
+	<iostream>
+	<stack>
+

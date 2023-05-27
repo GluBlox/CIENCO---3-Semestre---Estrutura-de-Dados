@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685150950 source:g:\programas\codeblocks\algoritmos\estrutura de dados\material 7 - exercícios\desafio1\main.cpp
+	<iostream>
+	<queue>
+
